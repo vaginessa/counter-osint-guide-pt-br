@@ -2,11 +2,13 @@
 
 Seja bem-vindo ao guia completo de contrainteligência (Counter OSINT) e privacidade, focado na Runet, Comunidade de Estados Independentes (CIS) e América Latina. Neste guia, você encontrará estratégias e práticas para proteger sua privacidade e segurança online nessas regiões.
 
-[![Último commit do GitHub](https://img.shields.io/github/last-commit/soxoj/counter-osint-guide-en?label=Última%20Atualização)](https://github.com/soxoj/counter-osint-guide-en)
-[![Atividade de confirmação do GitHub](https://img.shields.io.github/commit-activity/m/soxoj/counter-osint-guide-en?color=yellow&label=Frequência%20de%20Atualização)](https://github.com/soxoj/counter-osint-guide-en)
+![Último commit do GitHub](https://img.shields.io/github/last-commit/alexandresantosal91/counter-osint-guide-pt-br?label=Last%20update)
+![Atividade de confirmação do GitHub](https://img.shields.io/github/commit-activity/m/alexandresantosal91/counter-osint-guide-pt-br?color=yellow&label=Update%20frequency)
 
 **[Versão russa](https://github.com/soxoj/counter-osint-guide-ru)**
+
 **[Versão em inglês](https://github.com/soxoj/counter-osint-guide-en)**
+
 **[Versão em português](#) - Em Desenvolvimento**
 
 *Este guia ainda não está finalizado. Assine as atualizações (clique em "Watch") ou acompanhe os indicadores acima para ficar por dentro!*
