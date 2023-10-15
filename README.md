@@ -46,3 +46,33 @@ Este guia foi preparado com o apoio da comunidade com mentalidade OSINT: [Canal 
     - [🇰🇿 Cazaquistão]()
 10. [**🌎 América Latina e Brasil**]()
     - [🇧🇷 Brasil]()
+
+<h2 style="background-color: #F5F5F5;">Autores e Contribuidores</h2>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/soxoj">
+        <img src="https://avatars.githubusercontent.com/u/31013580?v=4" alt="Foto do Soxoj no GitHub" width="150px"/>
+        <br><b>Soxoj</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/soxoj">
+        <img src="https://avatars.githubusercontent.com/u/28706121?v=4" alt="Foto do Ramingo no GitHub" width="150px"/>
+        <br><b>Ramingo</b>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alexandresantosal91">
+        <img src="https://avatars.githubusercontent.com/u/122564125?s=400&u=89b5e90a309d06830dcac867a6a5a8e2940ff693&v=4" alt="Foto do Alexandre no GitHub" width="150px"/>
+        <br><b>Alexandre Santos</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+  
